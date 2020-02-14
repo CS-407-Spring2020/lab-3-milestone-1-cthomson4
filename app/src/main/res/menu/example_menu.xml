@@ -17,7 +17,7 @@
     <item
         android:id = "@+id/item3"
         android:title="Item 3"
-        app:showAsAction="never" />
+        app:showAsAction="never" >
         <menu>
             <item
                 android:id="@+id/subitem1"
@@ -29,7 +29,5 @@
                 />
         </menu>
 
-        />
-
-
+    </item>
 </menu>
